@@ -1,8 +1,12 @@
 This is a .h header file that defines a series of templates :
 
+
 // *********************************************************
+
 //                  estructures_bàsiques.h
+
 // *********************************************************
+
 //
 //  (c)2024 Albert Gonzàlez i García. Prohibit l'ús sense
 //  permís exprés per escrit de l'autor.
